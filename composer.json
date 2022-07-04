@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Crys Koh",
+        "email": "20019791@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
